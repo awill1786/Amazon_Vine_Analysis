@@ -9,7 +9,7 @@ The purpose of this analysis is to analyze Amazon reviews written by members of 
 ### Non-Vine Reviews
 ![image](https://github.com/awill1786/Amazon_Vine_Analysis/blob/main/Resources/Non-Vine_reviews.png?raw=true)
 ### 5-Star Vine Reviews
-
+![image](https://github.com/awill1786/Amazon_Vine_Analysis/blob/main/Resources/Vine_5star_reviews.png?raw=true)
 ### 5-Star Non-Vine Reviews
 
 ### 5-star Vine Review Percentage
