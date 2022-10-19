@@ -17,3 +17,4 @@ The purpose of this analysis is to analyze Amazon reviews written by members of 
 ### 5-star Non-Vine Review Percentage
 ![image](https://github.com/awill1786/Amazon_Vine_Analysis/blob/main/Resources/Non-Vine_5star_review_percentage.png?raw=true)
 ## Summary
+With 0% of the Vine Reviews being 5 stars and 63.7% of Non-Vine reviews being 5 stars, it can be determined that there is no positivity bias in the Vine program in regards to the music dataset. An additional analysis that could be explored is the types of reviews that were a verified purchase. 
